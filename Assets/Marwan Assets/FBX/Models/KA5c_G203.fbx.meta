@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: a8d67c64609658c4db81b58a43c561bf
+timeCreated: 1444125635
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: b_gun_boltcatch
+    100002: b_gun_firemode
+    100004: b_gun_glaunch_grenade
+    100006: b_gun_glaunch_grenade_shell
+    100008: b_gun_glaunch_sight_a
+    100010: b_gun_glaunch_sight_b
+    100012: b_gun_glaunch_trigger
+    100014: b_gun_glaunch_tube
+    100016: b_gun_mag
+    100018: b_gun_mag_bullets
+    100020: b_gun_muzzleflash
+    100022: b_gun_Root
+    100024: b_gun_shelleject
+    100026: b_gun_sight
+    100028: b_gun_stock
+    100030: b_gun_trigger
+    100032: //RootNode
+    100034: m_boltcatch
+    100036: m_bullets
+    100038: m_firemode
+    100040: m_g_launcher
+    100042: m_g_launcher_sight_a
+    100044: m_g_launcher_sight_b
+    100046: m_g_launcher_trigger
+    100048: m_g_launcher_tube
+    100050: m_grenade
+    100052: m_grenade_shell
+    100054: m_gun
+    100056: m_mag
+    100058: m_shelleject
+    100060: m_sight
+    100062: m_stock
+    100064: m_trigger
+    400000: b_gun_boltcatch
+    400002: b_gun_firemode
+    400004: b_gun_glaunch_grenade
+    400006: b_gun_glaunch_grenade_shell
+    400008: b_gun_glaunch_sight_a
+    400010: b_gun_glaunch_sight_b
+    400012: b_gun_glaunch_trigger
+    400014: b_gun_glaunch_tube
+    400016: b_gun_mag
+    400018: b_gun_mag_bullets
+    400020: b_gun_muzzleflash
+    400022: b_gun_Root
+    400024: b_gun_shelleject
+    400026: b_gun_sight
+    400028: b_gun_stock
+    400030: b_gun_trigger
+    400032: //RootNode
+    400034: m_boltcatch
+    400036: m_bullets
+    400038: m_firemode
+    400040: m_g_launcher
+    400042: m_g_launcher_sight_a
+    400044: m_g_launcher_sight_b
+    400046: m_g_launcher_trigger
+    400048: m_g_launcher_tube
+    400050: m_grenade
+    400052: m_grenade_shell
+    400054: m_gun
+    400056: m_mag
+    400058: m_shelleject
+    400060: m_sight
+    400062: m_stock
+    400064: m_trigger
+    4300000: m_g_launcher
+    4300002: m_g_launcher_sight_a
+    4300004: m_g_launcher_tube
+    4300006: m_shelleject
+    4300008: m_firemode
+    4300010: m_mag
+    4300012: m_stock
+    4300014: m_g_launcher_trigger
+    4300016: m_boltcatch
+    4300018: m_trigger
+    4300020: m_sight
+    4300022: m_bullets
+    4300024: m_grenade
+    4300026: m_grenade_shell
+    4300028: m_g_launcher_sight_b
+    4300030: m_gun
+    9500000: //RootNode
+    13700000: m_boltcatch
+    13700002: m_bullets
+    13700004: m_firemode
+    13700006: m_g_launcher
+    13700008: m_g_launcher_sight_a
+    13700010: m_g_launcher_sight_b
+    13700012: m_g_launcher_trigger
+    13700014: m_g_launcher_tube
+    13700016: m_grenade
+    13700018: m_grenade_shell
+    13700020: m_gun
+    13700022: m_mag
+    13700024: m_shelleject
+    13700026: m_sight
+    13700028: m_stock
+    13700030: m_trigger
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

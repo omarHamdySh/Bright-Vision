@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 0274ac8e686fa40429d50599affc60ed
+timeCreated: 1444133801
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: b_gun_firemode
+    100002: b_gun_mag
+    100004: b_gun_mag_bullets
+    100006: b_gun_muzzleflash
+    100008: b_gun_rem01
+    100010: b_gun_rem02
+    100012: b_gun_rem03
+    100014: b_gun_rem04
+    100016: b_gun_rem05
+    100018: b_gun_rem06
+    100020: b_gun_Root
+    100022: b_gun_shelleject
+    100024: b_gun_trigger
+    100026: m_gun
+    100028: m_gun_bullets
+    100030: m_gun_firemode
+    100032: m_gun_mag
+    100034: m_gun_rem
+    100036: m_gun_rem_button
+    100038: m_gun_shelleject
+    100040: m_gun_trigger
+    100042: //RootNode
+    400000: b_gun_firemode
+    400002: b_gun_mag
+    400004: b_gun_mag_bullets
+    400006: b_gun_muzzleflash
+    400008: b_gun_rem01
+    400010: b_gun_rem02
+    400012: b_gun_rem03
+    400014: b_gun_rem04
+    400016: b_gun_rem05
+    400018: b_gun_rem06
+    400020: b_gun_Root
+    400022: b_gun_shelleject
+    400024: b_gun_trigger
+    400026: m_gun
+    400028: m_gun_bullets
+    400030: m_gun_firemode
+    400032: m_gun_mag
+    400034: m_gun_rem
+    400036: m_gun_rem_button
+    400038: m_gun_shelleject
+    400040: m_gun_trigger
+    400042: //RootNode
+    4300000: m_gun_shelleject
+    4300002: m_gun_firemode
+    4300004: m_gun_trigger
+    4300006: m_gun_rem
+    4300008: m_gun_rem_button
+    4300010: m_gun_bullets
+    4300012: m_gun
+    4300014: m_gun_mag
+    9500000: //RootNode
+    13700000: m_gun
+    13700002: m_gun_bullets
+    13700004: m_gun_firemode
+    13700006: m_gun_mag
+    13700008: m_gun_rem
+    13700010: m_gun_rem_button
+    13700012: m_gun_shelleject
+    13700014: m_gun_trigger
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
